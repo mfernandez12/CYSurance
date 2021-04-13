@@ -10,3 +10,5 @@ Class | Method | HTTP request | Description
 *UploadLogo* | [**accountingKontostammResourceIdGet**](docs/AccountingApi.md#accountingKontostammResourceIdGet) | **GET** /accounting/kontostamm/{resourceId} | get: accounting/kontostammdaten/id
 *GetLogo* | [**accountingSchemaGruppensummeGet**](docs/AccountingschemaApi.md#accountingSchemaGruppensummeGet) | **GET** /accounting_schema/gruppensumme | get: accounting_schema/gruppensummen
 *DeleteLogo* | [**accountingSchemaGruppensummeResourceIdGet**](docs/AccountingschemaApi.md#accountingSchemaGruppensummeResourceIdGet) | **GET** /accounting_schema/gruppensumme/{resourceId} | get: accounting_schema/gruppensummen/id
+*ConfirmSignUpMSP*  | [**accountingSchemaGruppensummeResourceIdGet**](docs/AccountingschemaApi.md#accountingSchemaGruppensummeResourceIdGet) | **GET** /accounting_schema/gruppensumme/{resourceId} | get: accounting_schema/gruppensummen/id
+
